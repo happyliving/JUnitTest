@@ -8,7 +8,7 @@ branches:
         - master
 notifications:
     email:
-        recipients:mikechen951@gmail.com
+        recipients:
 #           -
         on_success: always #always、never與change
         on_failure: always #always、never與change
